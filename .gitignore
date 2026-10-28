@@ -1,0 +1,20 @@
+# Flutter / Dart
+flutter/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+coverage/
+*.iml
+.idea/
+
+# Gradle / Java
+.gradle/
+backend/build/
+backend/data/
+*.class
+
+# Platform and local settings
+.DS_Store
+local.properties

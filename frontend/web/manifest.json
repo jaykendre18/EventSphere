@@ -1,0 +1,9 @@
+{
+  "name": "EventSphere",
+  "short_name": "EventSphere",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f5ef",
+  "theme_color": "#f4f5ef",
+  "description": "EventSphere event board"
+}
